@@ -1,0 +1,38 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+ <title>My first Contact Us Form</title>
+ <link rel="icon" type="image" href="D:\Computer Workshop Practical\Practical 10"> 
+</head> 
+
+<body bgcolor="hotpink">
+<center> 
+<h1>Contact us</h1> 
+
+ <form onsubmit ="return false">
+ <label>First Name:</label>   
+ <input type="text" placeholder="Enter first name" id="firstName" /><br><br> 
+ <label>Last Name:</label>
+ <input type="text" placeholder="Enter last name" id="lastName" /><br><br> 
+
+ <label>Gender:</label><br>
+<input type="radio" id="male" name="gender" value="male"> Male  
+<input type="radio" id="female" name="gender" value="female"> Female <br> <br>
+
+<label>Email id:</label>
+<input type="email" placeholder="Enter your Email" id="email" /><br><br>
+
+<label>Address:</label>
+<input type="text" placeholder="Address" id="address" /><br><br>
+<label>House number:</label>
+<input type="number" placeholder="House Number" id="houseNumber" /><br><br>
+
+<label>Mobile no:</label>
+<input type="number" placeholder="Mobile Number" id="mobileNumber" /><br><br>
+<hr>
+<button on click="send contact();">
+send contact</button>
+</center> 
+</form> 
+</body> 
+</html>
