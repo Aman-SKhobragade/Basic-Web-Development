@@ -1,0 +1,99 @@
+body{
+   background: black
+}
+.x{
+  background-color: wheat
+}
+.x {
+  border: 2px dashed chocolate
+}
+.x{
+  padding-left: 20px
+}
+.x {
+  padding-right: 20px
+}
+.x{
+ text-decoration: underline
+}
+.x{
+  border-radius:10px 
+}
+.x {
+  font-size: 40px
+}
+.x {
+  font-family: 'Courier New', Courier, monospace 
+}
+.born{
+  background-color: wheat
+}
+.born {
+  border-radius: 10px 
+}
+.born {
+  text-decoration: underline
+}
+.born {
+  padding-left: 20px
+}
+.born {
+  box-pack: 20px 
+}
+.B2 {
+  color: white
+}
+.B2 {
+  margin-left: 20px
+}
+.B2 {
+  margin-right: 20px
+}
+.y{
+  background-color: wheat
+}
+.y {
+  padding-left: 20px
+}
+.y {
+  border-radius: 10px
+}
+.y {
+  text-decoration: underline
+}
+.z {
+  color: white
+}
+.z {
+  margin-left: 20px
+}
+.z {
+  margin-right: 40px
+}
+.End{
+  background-color: wheat
+}
+.End {
+  color: black
+}
+.End {
+  font-size: 35px
+}
+.End {
+  margin-left: 300px
+}
+.End {
+  margin-right: 300px
+}
+.End {
+  padding-left: 55px
+}
+.End {
+  padding-right: 10px
+}
+.End {
+  border-radius: 100px
+}
+.End {
+  border: 3px dotted darkcyan
+}
